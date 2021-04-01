@@ -1,0 +1,11 @@
+.listaProdutos table {
+  width: 100%;
+}
+
+.listaProdutos .par {
+  background-color: #ddd;
+}
+
+.listaProdutos .impar {
+  background-color: #ccc;
+}
